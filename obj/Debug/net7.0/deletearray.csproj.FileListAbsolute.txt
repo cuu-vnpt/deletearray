@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/deletearray/bin/Debug/net7.0/deletearray
+/Users/macos/Desktop/Operator/deletearray/bin/Debug/net7.0/deletearray.deps.json
+/Users/macos/Desktop/Operator/deletearray/bin/Debug/net7.0/deletearray.runtimeconfig.json
+/Users/macos/Desktop/Operator/deletearray/bin/Debug/net7.0/deletearray.dll
+/Users/macos/Desktop/Operator/deletearray/bin/Debug/net7.0/deletearray.pdb
+/Users/macos/Desktop/Operator/deletearray/obj/Debug/net7.0/deletearray.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/deletearray/obj/Debug/net7.0/deletearray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/deletearray/obj/Debug/net7.0/deletearray.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/deletearray/obj/Debug/net7.0/deletearray.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/deletearray/obj/Debug/net7.0/deletearray.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/deletearray/obj/Debug/net7.0/deletearray.dll
+/Users/macos/Desktop/Operator/deletearray/obj/Debug/net7.0/refint/deletearray.dll
+/Users/macos/Desktop/Operator/deletearray/obj/Debug/net7.0/deletearray.pdb
+/Users/macos/Desktop/Operator/deletearray/obj/Debug/net7.0/deletearray.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/deletearray/obj/Debug/net7.0/ref/deletearray.dll
